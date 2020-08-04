@@ -1,0 +1,11 @@
+{
+  "name": "restful-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:robinson-85/restful-course.git",
+  "author": "robinson-85 <robinpaulista@yahoo.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
