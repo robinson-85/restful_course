@@ -59,5 +59,16 @@ _NÃo IMPORTA! _use apenas um padrão;
 - PUT: Atualizar dados de um Resource.
 - DELETE: Deletar um Resource.
 
+## STATUS DAS RESPOSTAS
 
-
+1XX: informação
+2xx: sucesso
+    -200: ok
+    -201: Created
+    -204: Não tem conteúdo PUT POST DELETE
+3xx: Redirection
+4xx: Client Error
+    -400: Bad Request
+    -404: Not found!
+-5xx: Server error
+    -500: Internal Server Error
