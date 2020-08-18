@@ -9,7 +9,7 @@ didática;
 -A transferência de dados, geralmente, são feitas
 usando o protocolo HTTP;
 
--O REST, delimita algumas obriagações nessas 
+-O REST, delimita algumas obrigações nessas 
 transferências de dados;
 
 -Resources é então, uma entidade, um objeto.
